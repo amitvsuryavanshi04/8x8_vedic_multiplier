@@ -12,3 +12,6 @@ The Urdhva Tiryakbhyam Sutra translates to "Vertically and Crosswise." This meth
 Vertical Multiplication: Multiplying the corresponding bits of the multiplicands.
 Crosswise Multiplication: Multiplying the crosswise bits and adding them appropriately.
 Summation: Summing the vertically and crosswise obtained products to get the final product.
+
+### Day-01 
+collection of data regarding project 
