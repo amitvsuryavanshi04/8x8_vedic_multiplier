@@ -1,4 +1,4 @@
-# a_8x8_vedic_multiplier
+# 8x8_vedic_multiplier
 Overview
 This project implements an 8x8 Vedic Multiplier using the Urdhva Tiryakbhyam (Vertically and Crosswise) Sutra, a method derived from ancient Indian Vedic mathematics. This approach provides an efficient and fast method for multiplication, which is particularly advantageous in digital signal processing and other applications requiring rapid arithmetic operations.
 
