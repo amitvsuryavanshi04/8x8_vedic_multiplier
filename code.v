@@ -7,7 +7,7 @@ xor(sum,a,b);
 and(carry,a,b);
 endmodule
 
-
+//day-02 25/may/2024
 module add_4_bit (a,b,sum); //four bit adder 
 input [3:0] a,b;
 output [3:0]sum;
