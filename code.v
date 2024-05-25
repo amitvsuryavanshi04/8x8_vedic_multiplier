@@ -6,3 +6,17 @@ output sum,carry;
 xor(sum,a,b);
 and(carry,a,b);
 endmodule
+
+
+module add_4_bit (a,b,sum); //four bit adder 
+input [3:0] a,b;
+output [3:0]sum;
+assign sum=a+b;
+endmodule
+
+
+module add_6_bit (a,b,sum); //6 bit adder
+input [5:0] a,b;
+output [5:0] sum;
+assign sum = a+b;
+endmodule
