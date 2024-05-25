@@ -20,3 +20,16 @@ input [5:0] a,b;
 output [5:0] sum;
 assign sum = a+b;
 endmodule
+      
+
+module add_8_bit (a,b,sum); //8 bit adder 
+input[7:0] a,b;
+output[7:0] sum;
+assign sum = a+b;
+endmodule
+
+module add_12_bit (a,b,sum); //12 bit adder 
+input[11:0] a,b;
+output[11:0] sum;
+assign sum = a+b;
+endmodule
