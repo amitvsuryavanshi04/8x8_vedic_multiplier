@@ -25,5 +25,11 @@ Explore its educational benefits.
 Efficiency: The sutra is faster than traditional long multiplication by combining steps.
 Learning Curve: Initially unfamiliar but easily learned with practice, offering an intuitive approach.
 
+## Applications
+
+Mental Math: Enhances quick, paperless calculations.
+Competitive Exams: Useful for fast, accurate calculations.
+Education: Introducing this method in schools can improve mathematical understanding and proficiency.
+
 ### Day-01 
 collection of data regarding project 
