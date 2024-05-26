@@ -13,7 +13,7 @@ Vertical Multiplication: Multiplying the corresponding bits of the multiplicands
 Crosswise Multiplication: Multiplying the crosswise bits and adding them appropriately.
 Summation: Summing the vertically and crosswise obtained products to get the final product.
 
- ## Objectives
+## Objectives
 
 Understand and apply the Urdhva Tiryakbhyam Sutra.
 Compare its efficiency with traditional multiplication.
