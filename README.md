@@ -33,3 +33,6 @@ Education: Introducing this method in schools can improve mathematical understan
 
 ### Day-01 
 collection of data regarding project 
+
+### Day-02
+Using half adder and four bit adder
