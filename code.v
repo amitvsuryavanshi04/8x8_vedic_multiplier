@@ -33,3 +33,34 @@ input[11:0] a,b;
 output[11:0] sum;
 assign sum = a+b;
 endmodule
+    
+module vedic_2_x_2(a,b,c); //2x2 multiplier
+input [1:0]a;
+input [1:0]b;
+output [3:0]c;
+wire [3:0]c;
+wire [3:0]temp;
+assign c[0]=a[0]&b[0]; 
+assign temp[0]=a[1]&b[0];
+assign temp[1]=a[0]&b[1];
+assign temp[2]=a[1]&b[1];
+ha z1(temp[0],temp[1],c[1],temp[3]);
+ha z2(temp[2],temp[3],c[2],c[3]);
+endmodule
+
+module vedic_4_x_4(a,b,c); //4x4 multiplier
+input [3:0]a;
+input [3:0]b;
+output [7:0]c;
+wire [3:0]q0;	
+wire [3:0]q1;	
+wire [3:0]q2;
+wire [3:0]q3;	
+wire [7:0]c;
+wire [3:0]temp1;
+wire [5:0]temp2;
+wire [5:0]temp3;
+wire [5:0]temp4;
+wire [3:0]q4;
+wire [5:0]q5;
+wire [5:0]q6;
