@@ -13,5 +13,10 @@ Vertical Multiplication: Multiplying the corresponding bits of the multiplicands
 Crosswise Multiplication: Multiplying the crosswise bits and adding them appropriately.
 Summation: Summing the vertically and crosswise obtained products to get the final product.
 
+## Comparative Analysis
+
+Efficiency: The sutra is faster than traditional long multiplication by combining steps.
+Learning Curve: Initially unfamiliar but easily learned with practice, offering an intuitive approach.
+
 ### Day-01 
 collection of data regarding project 
