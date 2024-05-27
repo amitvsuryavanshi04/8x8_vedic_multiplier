@@ -38,4 +38,7 @@ collection of data regarding project
 Using half adder and four bit adder
  
 ### Day-03
-Using 6 bit adder
+On a 6 bit adder
+ 
+### Day-04
+Using 8 bit and 12 bit adder 
