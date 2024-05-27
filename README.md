@@ -48,3 +48,6 @@ A 2×2 vedic multiplier
 
 ### Day-06
 A 4×4 vedic multiplier
+
+### Day-07
+A 8×8 vedic multiplier
