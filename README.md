@@ -42,3 +42,6 @@ On a 6 bit adder
  
 ### Day-04
 Using 8 bit and 12 bit adder 
+
+### Day-05
+A 2×2 vedic multiplier
