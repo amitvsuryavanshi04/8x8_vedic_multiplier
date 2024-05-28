@@ -2,6 +2,9 @@
 Overview
 This project implements an 8x8 Vedic Multiplier using the Urdhva Tiryakbhyam (Vertically and Crosswise) Sutra, a method derived from ancient Indian Vedic mathematics. This approach provides an efficient and fast method for multiplication, which is particularly advantageous in digital signal processing and other applications requiring rapid arithmetic operations.
 
+# scope of the multplication
+ to see and compare the results between the vedic multiplier and wallace tree multiplier by comparing the number of look up tables 
+ and number of computations taking place 
 Features
 Fast Multiplication: The Vedic method significantly reduces the computation time compared to conventional multiplication techniques.
 Efficient Hardware Utilization: This implementation optimizes the usage of hardware resources, making it suitable for FPGA and ASIC designs.
