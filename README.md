@@ -5,7 +5,8 @@ This project implements an 8x8 Vedic Multiplier using the Urdhva Tiryakbhyam (Ve
 # scope of the multplication
  to see and compare the results between the vedic multiplier and wallace tree multiplier by comparing the number of look up tables 
  and number of computations taking place 
-Features
+
+# Features
 Fast Multiplication: The Vedic method significantly reduces the computation time compared to conventional multiplication techniques.
 Efficient Hardware Utilization: This implementation optimizes the usage of hardware resources, making it suitable for FPGA and ASIC designs.
 Scalable Design: The principles used can be extended to create multipliers of higher bit widths.
